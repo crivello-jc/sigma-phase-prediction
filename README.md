@@ -24,9 +24,9 @@ Our results open a broad avenue to efficient high-throughput investigations of t
 
 # Dataset
 the two database have been obtained by DFT calculation under same conditions:
-* DB : learning database (~10000 compounds, formed by the combinatorial of given systems)
-* DB2 : testing databse (~1000 compounds, formeed by random configuration amon the 14^5 ones
+* DB-train : learning database (~10000 compounds, formed by the combinatorial of given systems)
+* DB-test : testing database (~1000 compounds, formed by random configurations among the 14^5 ones)
 
-The results of all properties perdictions are given into the file:
-* sigma-all.zip
+The results of all properties predictions are given into the file:
+* sigma-alldata.zip
 
